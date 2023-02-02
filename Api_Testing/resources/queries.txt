@@ -1,0 +1,5 @@
+INSERT INTO CustomerInfo values("Appium",CURRENT_DATE(),99,'Asia');
+
+INSERT INTO CustomerInfo values("WebServices",CURRENT_DATE(),21,'Asia');
+
+INSERT INTO CustomerInfo values("Jmeter",CURRENT_DATE(),76,'Asia');
